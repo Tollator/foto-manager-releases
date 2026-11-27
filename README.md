@@ -2,9 +2,9 @@
 
 Offizielles Download- und Update-Repository für **FotoManager** – den nativen Windows-11-Foto- & Videomanager im Lightroom-CC-Stil für lokale Ordner und SMB-NAS-Bibliotheken.
 
-## Aktuelle Version: `v3.1.1`
+## Aktuelle Version: `v3.2.0`
 
-- **Windows-Installer (64-Bit):** [`FotoManager-Setup-3.1.1-win-x64.exe`](https://github.com/Tollator/foto-manager-releases/releases/download/v3.1.1/FotoManager-Setup-3.1.1-win-x64.exe)
+- **Windows-Installer (64-Bit):** [`FotoManager-Setup-3.2.0-win-x64.exe`](https://github.com/Tollator/foto-manager-releases/releases/download/v3.2.0/FotoManager-Setup-3.2.0-win-x64.exe)
 - **Alle Releases & Änderungsprotokoll:** [GitHub Releases](https://github.com/Tollator/foto-manager-releases/releases)
 
 ## Systemvoraussetzungen & Update-Sicherheit
